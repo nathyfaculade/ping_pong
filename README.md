@@ -28,7 +28,7 @@ import sys
 
 # 🎮 Primeiros passos:
 
-Defenir tamanho da tela:
+🪧 Defenir tamanho da tela:
 
 ```bash
   self.SCREEN_WIDTH = 800
@@ -208,6 +208,6 @@ No teclado ultilize esses botões:
 | S: para baixo | ⬇️: para baixo |
 
 
-# Por fim mostra quem é ganhador
+# Por fim mostra quem é o ganhador!!!
 
 ### 🍀 BOA SORTE 🍀 ###
