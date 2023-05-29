@@ -194,29 +194,20 @@ Mostrando o resultado final na tela com musica:
 Escolha o seu adversário
 
 # 2° Passo:
-Dar o Play no canto superior direito:
-![Fig.gif](Play.gif)
+Dar o Play no canto superior direito;
 
 # 3° Passo:
 Aperte o espaço para iniciar o jogo:
 
 # 4° Passo:
-|Jogador 1| Jogador 2|
-| W: para cima | ⬆️: para cima|
-| S: para baixo| ⬇️: para baixo|
+No teclado ultilize esses botões:
+
+| Jogador 1 | Jogador 2 |
+| --- | --- |
+| W: para cima | ⬆️: para cima |
+| S: para baixo | ⬇️: para baixo |
 
 
+# Por fim mostra quem é ganhador
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+### 🍀 BOA SORTE 🍀 ###
