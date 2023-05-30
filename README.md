@@ -52,7 +52,7 @@ import sys
   self.score_b = 0
 ```
 
-Definindo a fonte a ser usada:
+🔤 Definindo a fonte a ser usada:
 ```bash
   self.font_file = "font/PressStart2P-Regular.ttf"
   self.font = pygame.font.Font(self.font_file, 36)
